@@ -114,5 +114,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@conda-forge/event-model](https://github.com/conda-forge/event-model/)
 * [@untzag](https://github.com/untzag/)
 
