@@ -45,3 +45,4 @@ about:
 extra:
   recipe-maintainers:
     - untzag
+    - conda-forge/event-model
