@@ -11,7 +11,7 @@ source:
   sha256: 2cfefc97ca2ca6bdfdf3be67a6c28a1811549a72aa919d3f84e4dedb4e526f9c
 
 build:
-  number: 1
+  number: 2
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
@@ -45,4 +45,7 @@ about:
 extra:
   recipe-maintainers:
     - untzag
-    - conda-forge/event-model
+    - danielballan
+    - mrakitin
+    - stuartcampbell
+    - tacaswell
